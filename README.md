@@ -64,7 +64,7 @@ The automated pipeline performs the following critical stages:
 *   **Machine Learning:** Scikit-Learn, PyTorch (Autoencoders), Pandas, NumPy
 *   **DevOps:** Jenkins (Groovy Pipelines), Ansible, Docker
 *   **Orchestration:** Kubernetes (Minikube), Ingress-NGINX
-*   **Monitoring:** ELK Stack (Elasticsearch, Fluent Bit, Kibana)
+*   **Monitoring:** ELK Stack (Elasticsearch, Fluent Bit & Kibana)
 *   **Database:** MongoDB (for raw log archival)
 
 ---
